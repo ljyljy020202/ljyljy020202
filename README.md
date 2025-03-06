@@ -4,13 +4,12 @@
 </div>
 
 <!--내용 부분-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljyljy020202&layout=compact)
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
@@ -57,3 +56,4 @@
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljyljy020202&layout=compact)

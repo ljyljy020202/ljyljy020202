@@ -36,7 +36,8 @@
 </div>
 
 <br>
+<br>
 <div align="center">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ljyyjl_02" width=40% />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ljyyjl_02" width=30% />
 </div>
 

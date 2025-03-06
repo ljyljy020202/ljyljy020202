@@ -1,9 +1,10 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=pink&height=300&section=header&text=Welcome&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%to%my%github!&fontSize=80" />
 </div>
 
 <!--내용 부분-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp

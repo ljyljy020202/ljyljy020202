@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome!&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20my%20github!&fontSize=60" />
 </div>
 
 <!--내용 부분-->
@@ -36,5 +36,7 @@
 </div>
 
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ljyyjl_02)](https://solved.ac/ljyyjl_02)
+<div align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ljyyjl_02" width=40% />
+</div>
 

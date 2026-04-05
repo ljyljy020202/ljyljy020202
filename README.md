@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-- 도전을 즐기며, 끊임없이 성장하고자 하는 백엔드 개발자 임지예입니다.
+도전을 즐기며, 끊임없이 성장하고자 하는 백엔드 개발자 임지예입니다.
 
 <br>
 
@@ -45,11 +45,6 @@
 ### 🛠 Tools / Automation
 <div>
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge"/>
-</div>
-
-### 🤖 AI / Automation
-<div>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
 </div>
 
 <br>

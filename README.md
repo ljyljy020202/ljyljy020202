@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20my%20github!&fontSize=60" />
 </div>
-<br>
 
 ## 👋 About Me
 

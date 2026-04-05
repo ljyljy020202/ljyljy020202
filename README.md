@@ -6,30 +6,51 @@
 
 ## 👋 About Me
 
-- 백엔드 개발자로 성장 중인 임지예입니다.
-- 단순 구현을 넘어서 **문제 해결과 구조 설계**를 중요하게 생각합니다.
-- 인증/인가, API 설계, 데이터 흐름을 이해하는 개발자를 지향합니다.
+- 도전을 즐기며, 끊임없이 성장하고자 하는 백엔드 개발자 임지예입니다.
 
 <br>
 
 ## 🚀 Tech Stack
 
 ### 🖥 Backend
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</div>
 
 ### 🔐 Authentication / Security
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+<div>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+</div>
 
 ### 🗄 Database
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</div>
 
-### ⚙️ DevOps / Tools
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge"/>
+### ⚙️ DevOps / Infra
+<div>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+### 🛠 Tools / Automation
+<div>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge"/>
+</div>
 
 ### 🤖 AI / Automation
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+<div>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+</div>
 
 <br>
 

@@ -2,31 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20my%20github!&fontSize=60" />
 </div>
-
-<!--
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
--->
 <br>
-
-<h3 align="center"></h3>
-<div align="center">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ljyyjl_02" width=40% />&nbsp
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljyljy020202&layout=compact&cache_seconds=86400" width=40% />&nbsp
-</div>
-
-<!-- 헤더 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Backend%20Developer%20Jiye%20Lim&fontSize=50" />
-</div>
-
-<br>
-
 ## 👋 About Me
 - 백엔드 개발자로 성장 중인 임지예입니다.
 - 단순 구현을 넘어서 **문제 해결과 구조 설계**를 중요하게 생각합니다.
@@ -88,13 +64,5 @@
 
 <br>
 
-## 💡 What I Focus On
-- “왜 이렇게 설계했는가?”를 설명할 수 있는 개발
-- 유지보수 가능한 코드와 구조
-- 단순 기능 구현이 아닌 **문제 해결 중심 개발**
-
-<br>
-
 ## 📫 Contact
 - Email: limgeeee02@gmail.com
-- GitHub: https://github.com/ljyljy020202

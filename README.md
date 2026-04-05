@@ -21,11 +21,6 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </div>
 
-### 🔐 Authentication / Security
-<div>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
-</div>
-
 ### 🗄 Database
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>

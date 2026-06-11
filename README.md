@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 
-도전을 즐기며, 끊임없이 성장하고자 하는 백엔드 개발자 임지예입니다.
+안녕하세요! 안정적인 백엔드 구조로 서비스 성장에 기여하고 싶은 백엔드 개발자 임지예입니다.
 
 <br>
 
@@ -36,10 +36,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
-### 🛠 Tools / Automation
-<div>
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge"/>
-</div>
 
 <br>
 
